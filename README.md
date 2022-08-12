@@ -1,8 +1,6 @@
 # antd-amplify-react
 This is an Ant Design specific implementation of AWS Amplify React components for Authentication (`SignUp`, `ConfirmSignUp`, `SignIn`, `SignOut`, `RequireNewPassword`, `ForgotPassword`). You can use less and variables to style these components.
 
-If you like this package and it helped you in any way, Star at [github](https://github.com/mzohaibqc/antd-amplify-react) ⭐ ⭐ ⭐
-
 ### Install
 > npm i -S antd-amplify-react
 
